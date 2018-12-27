@@ -1,7 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"go-learning-codebin/stringutils"
+)
 
 func main() {
-	fmt.Println("Hello world!")
+
+	out := stringutils.ReverseString("!dlrow ,olleH")
+
+	fmt.Println(out)
+
 }
