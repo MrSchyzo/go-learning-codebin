@@ -4,6 +4,7 @@
 2. Go here <https://github.com/alco/gostart>
 3. Go here <https://golang.org/doc/>
 4. Go here <https://tour.golang.org/>
+5. Go here <https://developers.google.com/sheets/api/quickstart/go> for an API example
 
 ---
 ---
